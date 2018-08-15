@@ -9,3 +9,13 @@ You then need to select this theme in your  ``` /.zshrc:```
 ```
 ZSH_THEME="powerlevel9k/powerlevel9k"
 ```
+
+# 安装zsh-users/zsh-completions：
+```
+https://link.zhihu.com/?target=https%3A//github.com/zsh-users/zsh-completions
+```
+
+# 安装zsh-users/zsh-syntax-highlighting：
+```
+https://github.com/zsh-users/zsh-syntax-highlighting
+```
